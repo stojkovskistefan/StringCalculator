@@ -1,0 +1,14 @@
+C:\Users\Stefan Stojkovski\source\repos\StringCalculator.Test\StringCalculator.Test\obj\Debug\netcoreapp2.2\StringCalculator.Test.csprojAssemblyReference.cache
+C:\Users\Stefan Stojkovski\source\repos\StringCalculator.Test\StringCalculator.Test\obj\Debug\netcoreapp2.2\StringCalculator.Test.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Stojkovski\source\repos\StringCalculator.Test\StringCalculator.Test\obj\Debug\netcoreapp2.2\StringCalculator.Test.AssemblyInfoInputs.cache
+C:\Users\Stefan Stojkovski\source\repos\StringCalculator.Test\StringCalculator.Test\obj\Debug\netcoreapp2.2\StringCalculator.Test.AssemblyInfo.cs
+C:\Users\Stefan Stojkovski\source\repos\StringCalculator.Test\StringCalculator.Test\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Stefan Stojkovski\source\repos\StringCalculator.Test\StringCalculator.Test\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Stefan Stojkovski\source\repos\StringCalculator.Test\StringCalculator.Test\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Stefan Stojkovski\source\repos\StringCalculator.Test\StringCalculator.Test\bin\Debug\netcoreapp2.2\StringCalculator.Test.deps.json
+C:\Users\Stefan Stojkovski\source\repos\StringCalculator.Test\StringCalculator.Test\bin\Debug\netcoreapp2.2\StringCalculator.Test.runtimeconfig.json
+C:\Users\Stefan Stojkovski\source\repos\StringCalculator.Test\StringCalculator.Test\bin\Debug\netcoreapp2.2\StringCalculator.Test.runtimeconfig.dev.json
+C:\Users\Stefan Stojkovski\source\repos\StringCalculator.Test\StringCalculator.Test\bin\Debug\netcoreapp2.2\StringCalculator.Test.dll
+C:\Users\Stefan Stojkovski\source\repos\StringCalculator.Test\StringCalculator.Test\bin\Debug\netcoreapp2.2\StringCalculator.Test.pdb
+C:\Users\Stefan Stojkovski\source\repos\StringCalculator.Test\StringCalculator.Test\obj\Debug\netcoreapp2.2\StringCalculator.Test.dll
+C:\Users\Stefan Stojkovski\source\repos\StringCalculator.Test\StringCalculator.Test\obj\Debug\netcoreapp2.2\StringCalculator.Test.pdb
